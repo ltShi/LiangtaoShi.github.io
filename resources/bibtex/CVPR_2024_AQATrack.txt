@@ -1,0 +1,6 @@
+@inproceedings{shi2024aqatrack,
+  title={Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers}, 
+  author={Jinxie Xie and Bineng Zhong and Zhiyi Mo and Shengping Zhang and Liangtao Shi and Shuxiang Song and Rongrong Ji},
+  booktitle={CVPR},
+  year={2024}
+}

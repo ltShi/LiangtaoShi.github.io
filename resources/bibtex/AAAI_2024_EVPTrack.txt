@@ -1,0 +1,6 @@
+@inproceedings{shi2024evptrack,
+  title={Explicit Visual Prompts for Visual Object Tracking}, 
+  author={Liangtao Shi and Bineng Zhong and Qihua Liang and Ning Li and Shengping Zhang and Xianxian Li},
+  booktitle={AAAI},
+  year={2024}
+}
